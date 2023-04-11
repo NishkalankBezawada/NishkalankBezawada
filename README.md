@@ -6,7 +6,7 @@ Its been my dream to contribute to PnP since years, Thanks to my friend and coll
 - 🌱 I’m currently learning: PowerApps
 - 👯 I’m looking to collaborate on: SharePoint Framework
 - 🤔 I’m looking for help with: PowerApps
-- 💬 Ask me about: SharePoint Framework
+- 💬 Ask me about: SPFx, React, TypeScript
 - 📫 LinkedIn profile: https://www.linkedin.com/in/nishkalankbezawada/
 - 📫 How to reach me: nishkalankbezawada@outlook.com
 - 😄 Pronouns: He/Him
