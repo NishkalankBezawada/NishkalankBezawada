@@ -11,3 +11,11 @@ Its been my dream to contribute to PnP since years, Thanks to my friend and coll
 - 📫 How to reach me: nishkalankbezawada@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Motto for life: Work hard in silence, Let success make the noise
+
+Here are some statistics about my GitHub contributions:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NishkalankBezawada&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/NishkalankBezawada)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NishkalankBezawada) 
