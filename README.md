@@ -19,3 +19,5 @@ Here are some statistics about my GitHub contributions:
 ![GitHub metrics](https://metrics.lecoq.io/NishkalankBezawada)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NishkalankBezawada) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishkalankBezawada&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
