@@ -21,3 +21,7 @@ Here are some statistics about my GitHub contributions:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NishkalankBezawada) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishkalankBezawada&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Profile views](https://komarev.com/ghpvc/?username=NishkalankBezawada&label=Profile%20Views&color=blue)]
+
+[![Github](https://img.shields.io/github/followers/NishkalankBezawada?label=Follow&style=social)] -->
