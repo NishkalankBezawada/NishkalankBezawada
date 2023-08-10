@@ -7,7 +7,7 @@ Its been my dream to contribute to PnP since years, Thanks to my friend and coll
 - 👯 I’m looking to collaborate on: SharePoint Framework
 - 🤔 I’m looking for help with: PowerApps
 - 💬 Ask me about: SPFx, React, TypeScript
-- 📫 LinkedIn profile: https://www.linkedin.com/in/nishkalankbezawada/
+- 📫 LinkedIn profile: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishkalankbezawada/) 
 - 📫 How to reach me: nishkalankbezawada@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Motto for life: Work hard in silence, Let success make the noise
