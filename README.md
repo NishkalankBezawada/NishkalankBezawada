@@ -23,7 +23,7 @@ Here are some statistics about my GitHub contributions:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishkalankBezawada&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adam-it&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=NishkalankBezawada&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--[![Profile views](https://komarev.com/ghpvc/?username=NishkalankBezawada&label=Profile%20Views&color=blue)]
 
