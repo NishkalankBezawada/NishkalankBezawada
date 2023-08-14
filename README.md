@@ -12,6 +12,14 @@ Its been my dream to contribute to PnP since years, Thanks to my friend and coll
 - 😄 Pronouns: He/Him
 - ⚡ Motto for life: Work hard in silence, Let success make the noise
 
+
+Below are my contributions to M365 PnP Community
+
+[pnp/sp-dev-fx-controls-react](https://github.com/pnp/sp-dev-fx-controls-react/pulls?q=is:pr+author:NishkalankBezawada+)  
+[pnp/powershell](https://github.com/pnp/powershell/pulls?q=is%3Apr+author%3ANishkalankBezawada+)  
+[pnp/sp-dev-fx-webparts](https://github.com/pnp/sp-dev-fx-webparts/pulls?q=is%3Apr+author%3ANishkalankBezawada+)  
+[pnp/script-samples](https://github.com/pnp/script-samples/pulls?q=is%3Apr+author%3ANishkalankBezawada)  
+
 Here are some statistics about my GitHub contributions:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NishkalankBezawada&show_icons=true)  
