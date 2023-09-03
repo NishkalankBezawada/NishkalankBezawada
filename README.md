@@ -28,7 +28,9 @@ Here are some statistics about my GitHub contributions:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NishkalankBezawada) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishkalankBezawada&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishkalankBezawada&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishkalankBezawada&langs_count=10&theme=codeSTACKr&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NishkalankBezawada&icon=0&color=0)](https://visitcount.itsvg.in)
