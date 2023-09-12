@@ -19,6 +19,8 @@ Below are my contributions to M365 PnP Community
 [pnp/powershell](https://github.com/pnp/powershell/pulls?q=is%3Apr+author%3ANishkalankBezawada+)  
 [pnp/sp-dev-fx-webparts](https://github.com/pnp/sp-dev-fx-webparts/pulls?q=is%3Apr+author%3ANishkalankBezawada+)  
 [pnp/script-samples](https://github.com/pnp/script-samples/pulls?q=is%3Apr+author%3ANishkalankBezawada)  
+[pnp/sp-dev-fx-extensions](https://github.com/pnp/sp-dev-fx-extensions/pulls?q=is%3Apr+author%3ANishkalankBezawada)  
+
 
 Here are some statistics about my GitHub contributions:
 
