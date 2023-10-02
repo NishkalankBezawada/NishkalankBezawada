@@ -37,8 +37,8 @@ Here are some statistics about my GitHub contributions:
 ---
 [![](https://visitcount.itsvg.in/api?id=NishkalankBezawada&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![An image of @nishkalankbezawada's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nishkalankbezawada)](https://holopin.io/@nishkalankbezawada)
+<!--[![An image of @nishkalankbezawada's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nishkalankbezawada)](https://holopin.io/@nishkalankbezawada)
 
-<!--[![Profile views](https://komarev.com/ghpvc/?username=NishkalankBezawada&label=Profile%20Views&color=blue)]
+[![Profile views](https://komarev.com/ghpvc/?username=NishkalankBezawada&label=Profile%20Views&color=blue)]
 
 [![Github](https://img.shields.io/github/followers/NishkalankBezawada?label=Follow&style=social)] -->
