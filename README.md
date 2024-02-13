@@ -24,7 +24,9 @@ Below are my contributions to M365 PnP Community
 
 Here are some statistics about my GitHub contributions:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NishkalankBezawada&show_icons=true)  
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=NishkalankBezawada&show_icons=true) --> 
+
+![Nish's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishkalankBezawada&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
 
 ![GitHub metrics](https://metrics.lecoq.io/NishkalankBezawada)  
 
