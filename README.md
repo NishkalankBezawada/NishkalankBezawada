@@ -27,6 +27,11 @@ Below are my contributions to M365 PnP Community
 
 Here are some statistics about my GitHub contributions:
 
+## 🐍 Contribution Graph
+[![Nish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NishkalankBezawada&theme=modern-lilac&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=NishkalankBezawada&show_icons=true) --> 
 
 ![Nish's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishkalankBezawada&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
@@ -34,6 +39,9 @@ Here are some statistics about my GitHub contributions:
 ![GitHub metrics](https://metrics.lecoq.io/NishkalankBezawada)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NishkalankBezawada) 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NishkalankBezawada&limit=15&theme=moltack&combine_all_yearly_contributions=true)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishkalankBezawada&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
