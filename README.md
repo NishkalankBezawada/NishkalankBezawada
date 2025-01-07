@@ -40,8 +40,8 @@ Here are some statistics about my GitHub contributions:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NishkalankBezawada) 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NishkalankBezawada&limit=15&theme=moltack&combine_all_yearly_contributions=true)
+###  Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NishkalankBezawada&limit=7&theme=white&combine_all_yearly_contributions=true)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishkalankBezawada&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
