@@ -1,7 +1,7 @@
 ### Hi there 👋 Nish feels "IT, isn't that hard as you see IT"
 I am Nishkalank Bezawada, and you can call me as 'Nish'
 
-Microsoft MVP in M365 Development & SharePoint. Self made and still developing 'Developer'.
+Microsoft MVP in M365 Development , SharePoint. Self made and still developing 'Developer'.
 
 Thanks to my friend and colleague Giacomo Pozzoni ([@jackpoz](https://github.com/jackpoz "Giacomo's Github")) for guiding me in my very first contribution. I'm very much interested in SPFx, React, TypeScript and looking forward to learn more 😉
 
