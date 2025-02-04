@@ -25,6 +25,7 @@ Below are my contributions to M365 PnP Community
 [pnp/copilot-prompts](https://github.com/pnp/copilot-prompts/pulls?q=is%3Apr+author%3ANishkalankBezawada)  
 [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365/pulls?q=is%3Apr+author%3ANishkalankBezawada)  
 [pnp/vscode-viva](https://github.com/pnp/vscode-viva/pulls?q=is%3Apr+author%3ANishkalankBezawada)
+[pnp-modern-search](https://github.com/microsoft-search/pnp-modern-search/pulls?q=is%3Apr+author%3ANishkalankBezawada)
 
 
 
