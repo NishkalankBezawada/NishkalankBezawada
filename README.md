@@ -25,11 +25,6 @@ Below are my contributions to M365 PnP Community
 [pnp/vscode-viva](https://github.com/pnp/vscode-viva/pulls?q=is%3Apr+author%3ANishkalankBezawada)  
 [pnp-modern-search](https://github.com/microsoft-search/pnp-modern-search/pulls?q=is%3Apr+author%3ANishkalankBezawada)    
 
-<p align="left">
-  <a href="#">
-     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNishkalankBezawada&label=Profile%20Views&labelColor=%23263759&countColor=%2337d67a" />
-   </a>
-</p>
 
 Here are some statistics about my GitHub contributions:
 
