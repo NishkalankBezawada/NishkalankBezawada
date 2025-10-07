@@ -5,11 +5,10 @@ Microsoft MVP in M365 Development , SharePoint. Self made and still developing '
 
 Thanks to my friend and colleague Giacomo Pozzoni ([@jackpoz](https://github.com/jackpoz "Giacomo's Github")) for guiding me in my very first contribution. I'm very much interested in SPFx, React, TypeScript and looking forward to learn more 😉
 
-- 🌱 I’m currently exploring: Microsoft CoPilot
+- 🌱 I’m currently exploring: Copilot & Solutions2Share - Teams Manager
 - 💬 Ask me about: SPFx, React, TypeScript
 - 📫 LinkedIn profile: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishkalankbezawada/) 
 - 📫 How to reach me: nishkalankbezawada@outlook.com
-- 😄 Pronouns: He/Him
 - ⚡ Motto for life: Work hard in silence, Let success make the noise
 
 
